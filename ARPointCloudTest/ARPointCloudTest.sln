@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARPointCloudTest", "ARPointCloudTest\ARPointCloudTest.csproj", "{A66027EE-30DF-4179-95E6-73123F369A06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A66027EE-30DF-4179-95E6-73123F369A06}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{A66027EE-30DF-4179-95E6-73123F369A06}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{A66027EE-30DF-4179-95E6-73123F369A06}.Release|iPhone.ActiveCfg = Release|iPhone
+		{A66027EE-30DF-4179-95E6-73123F369A06}.Release|iPhone.Build.0 = Release|iPhone
+		{A66027EE-30DF-4179-95E6-73123F369A06}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{A66027EE-30DF-4179-95E6-73123F369A06}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{A66027EE-30DF-4179-95E6-73123F369A06}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{A66027EE-30DF-4179-95E6-73123F369A06}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
